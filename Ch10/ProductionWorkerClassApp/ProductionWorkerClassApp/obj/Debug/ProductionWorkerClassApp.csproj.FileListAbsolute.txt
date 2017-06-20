@@ -1,0 +1,9 @@
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\bin\Debug\ProductionWorkerClassApp.exe.config
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\bin\Debug\ProductionWorkerClassApp.exe
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\bin\Debug\ProductionWorkerClassApp.pdb
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\obj\Debug\ProductionWorkerClassApp.csprojResolveAssemblyReference.cache
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\obj\Debug\ProductionWorkerClassApp.productionWorkerClassApp.resources
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\obj\Debug\ProductionWorkerClassApp.Properties.Resources.resources
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\obj\Debug\ProductionWorkerClassApp.csproj.GenerateResource.Cache
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\obj\Debug\ProductionWorkerClassApp.exe
+C:\Users\bassm\Source\Repos\C-SharpClass\ProductionWorkerClassApp\ProductionWorkerClassApp\obj\Debug\ProductionWorkerClassApp.pdb

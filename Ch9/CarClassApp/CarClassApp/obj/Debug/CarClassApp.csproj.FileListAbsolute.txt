@@ -1,0 +1,18 @@
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\bin\Debug\CarClassApp.exe.config
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\bin\Debug\CarClassApp.exe
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\bin\Debug\CarClassApp.pdb
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\obj\Debug\CarClassApp.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\obj\Debug\CarClassApp.carClassApp.resources
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\obj\Debug\CarClassApp.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\obj\Debug\CarClassApp.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\obj\Debug\CarClassApp.exe
+c:\users\sebastian\documents\visual studio 2017\Projects\CarClassApp\CarClassApp\obj\Debug\CarClassApp.pdb
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\bin\Debug\CarClassApp.exe.config
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\obj\Debug\CarClassApp.exe
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\obj\Debug\CarClassApp.pdb
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\bin\Debug\CarClassApp.exe
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\bin\Debug\CarClassApp.pdb
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\obj\Debug\CarClassApp.csprojResolveAssemblyReference.cache
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\obj\Debug\CarClassApp.carClassApp.resources
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\obj\Debug\CarClassApp.Properties.Resources.resources
+C:\Users\bassm\Documents\C# Class\Ch9\CarClassApp\CarClassApp\obj\Debug\CarClassApp.csproj.GenerateResource.Cache

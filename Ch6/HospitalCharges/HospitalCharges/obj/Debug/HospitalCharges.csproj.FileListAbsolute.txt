@@ -1,0 +1,9 @@
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.exe
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\bin\Debug\HospitalCharges.pdb
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csprojResolveAssemblyReference.cache
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.hospitalChargesForm.resources
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.Properties.Resources.resources
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.csproj.GenerateResource.Cache
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.exe
+c:\users\bassm\documents\visual studio 2015\Projects\HospitalCharges\HospitalCharges\obj\Debug\HospitalCharges.pdb

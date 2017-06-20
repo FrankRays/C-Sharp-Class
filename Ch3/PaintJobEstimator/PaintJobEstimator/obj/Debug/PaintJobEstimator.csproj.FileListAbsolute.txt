@@ -1,0 +1,12 @@
+c:\users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe.config
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.pdb
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csprojResolveAssemblyReference.cache
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.Properties.Resources.resources
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.csproj.GenerateResource.Cache
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.exe
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.pdb
+C:\Users\bassm\documents\visual studio 2015\Projects\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.paintJobEstimatorForm.resources
+C:\Users\bassm\Documents\C# Class\Ch3\PaintJobEstimator\PaintJobEstimator\bin\Debug\PaintJobEstimator.exe.config
+C:\Users\bassm\Documents\C# Class\Ch3\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.exe
+C:\Users\bassm\Documents\C# Class\Ch3\PaintJobEstimator\PaintJobEstimator\obj\Debug\PaintJobEstimator.pdb

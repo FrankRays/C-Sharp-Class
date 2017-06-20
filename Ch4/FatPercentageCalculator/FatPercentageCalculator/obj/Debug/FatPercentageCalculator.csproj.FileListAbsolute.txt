@@ -1,0 +1,9 @@
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe.config
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.Properties.Resources.resources
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csproj.GenerateResource.Cache
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.pdb
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.exe
+c:\users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.pdb
+C:\Users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\bassm\documents\visual studio 2015\Projects\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.fatPercentageCalculatorForm.resources

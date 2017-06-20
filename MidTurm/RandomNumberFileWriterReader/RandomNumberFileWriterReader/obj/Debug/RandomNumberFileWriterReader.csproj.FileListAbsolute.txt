@@ -1,0 +1,9 @@
+c:\users\bassm\documents\visual studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\bin\Debug\RandomNumberFileWriterReader.exe.config
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\bin\Debug\RandomNumberFileWriterReader.exe
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\bin\Debug\RandomNumberFileWriterReader.pdb
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\obj\Debug\RandomNumberFileWriterReader.csprojResolveAssemblyReference.cache
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\obj\Debug\RandomNumberFileWriterReader.Properties.Resources.resources
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\obj\Debug\RandomNumberFileWriterReader.csproj.GenerateResource.Cache
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\obj\Debug\RandomNumberFileWriterReader.exe
+C:\Users\bassm\Documents\Visual Studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\obj\Debug\RandomNumberFileWriterReader.pdb
+C:\Users\bassm\documents\visual studio 2015\Projects\RandomNumberFileWriterReader\RandomNumberFileWriterReader\obj\Debug\RandomNumberFileWriterReader.randomNumberFileWriterReader.resources

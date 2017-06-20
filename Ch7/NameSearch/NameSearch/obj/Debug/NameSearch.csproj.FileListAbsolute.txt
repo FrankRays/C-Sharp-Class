@@ -1,0 +1,9 @@
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\bin\Debug\NameSearch.exe.config
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\bin\Debug\NameSearch.exe
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\bin\Debug\NameSearch.pdb
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.csprojResolveAssemblyReference.cache
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.Properties.Resources.resources
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.csproj.GenerateResource.Cache
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.exe
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.pdb
+c:\users\bassm\documents\visual studio 2015\Projects\NameSearch\NameSearch\obj\Debug\NameSearch.nameSearchForm.resources
